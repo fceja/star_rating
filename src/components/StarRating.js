@@ -1,3 +1,5 @@
+import '../styles/StarRating.css'
+
 import Star from "./Star"
 import React, {useState} from "react";
 import CreateArray from "./CreateArray"
@@ -11,6 +13,7 @@ export default function StarRating({totalStars}){
         <div className='stars-container'>
             {CreateArray({totalStars}).map((n, i) => (
             <Star
+                key={i}
                 selected={selectedStars > i}
                 onSelect={() => setSelectedStars(i+1)}
             />
