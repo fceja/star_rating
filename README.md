@@ -18,3 +18,9 @@ MacOS/Linux
 
 5. Open either of the urls in a web browser to view project page:
 `http://localhost:3000` OR `http://127.0.0.1:3000`
+
+
+Screenshot
+---
+
+![alt text](public/images/screenshot_ui.png "Screenshot of UI")
