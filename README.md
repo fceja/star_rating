@@ -1,4 +1,10 @@
 # star_rating
+Description
+---
+React app star rating component.
+
+The stars update to red when selected, and display the total count of selected stars.
+
 
 Installation
 ---
