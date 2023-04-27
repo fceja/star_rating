@@ -8,6 +8,7 @@ Installation
 2. Install Node.js:
 <pre>https://nodejs.org/en</pre>
 
+MacOS/Linux
 
 3. Open terminal, navigate to project root directory. Then, in terminal enter:
 <pre>npm install</pre>
