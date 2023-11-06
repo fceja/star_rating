@@ -1,0 +1,11 @@
+.start-rating-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.stars-selected-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
